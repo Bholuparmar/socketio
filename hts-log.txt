@@ -1,0 +1,311 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 13 Jun 2023 02:28:42 at https://socket.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://socket.io/ -O1 "C:\Users\ALOK SINGH PARMAR\Downloads\socketio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:29:49	Error: 	"Error when decompressing" (-1) at link https://socket.io/blog (from https://socket.io/)
+02:29:49	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/blog: Permission denied
+02:29:54	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/docs/v4/changelog: Permission denied
+02:30:31	Error: 	"Error when decompressing" (-1) at link https://socket.io/fr/blog (from https://socket.io/fr/)
+02:30:31	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/fr/blog: Permission denied
+02:30:37	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/fr/docs/v4/changelog: Permission denied
+02:31:07	Error: 	"Error when decompressing" (-1) at link https://socket.io/pt-br/blog (from https://socket.io/pt-br/)
+02:31:07	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/pt-br/blog: Permission denied
+02:31:13	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/pt-br/docs/v4/changelog: Permission denied
+02:31:44	Error: 	"Error when decompressing" (-1) at link https://socket.io/zh-CN/blog (from https://socket.io/zh-CN/)
+02:31:44	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/zh-CN/blog: Permission denied
+02:31:49	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/zh-CN/docs/v4/changelog: Permission denied
+02:33:05	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/uNetworking/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+02:33:08	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/uNetworking/uWebSockets.js/used_by_list
+02:33:51	Error: 	"Not Found" (404) at link https://stackblitz.com/edit/e,r.href (from https://stackblitz.com/edit/socketio-base?file=index.js)
+02:39:50	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/security/overall-count (from https://github.com/uNetworking/uWebSockets.js)
+02:39:56	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/tree/{{ urlEncodedRefName }} (from https://github.com/uNetworking/uWebSockets.js)
+02:39:56	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/branches (from https://github.com/uNetworking/uWebSockets.js)
+02:41:07	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/935839357bbf824609bb85f7c0fcd0e16cf27abd not scanned (follow robots meta tag)
+02:41:22	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/935839357bbf824609bb85f7c0fcd0e16cf27abd not scanned (follow robots meta tag)
+02:41:28	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/7a226c0027e1d24577252245ac7c5854463b08a7 not scanned (follow robots meta tag)
+02:41:35	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/8813908957b78ee21df87b7e20566ae3e79b2672 not scanned (follow robots meta tag)
+02:41:36	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/pull/902 not scanned (follow robots meta tag)
+02:41:54	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/05c0ae3321f4d5f166c44b98012d88d689290cc3 not scanned (follow robots meta tag)
+02:42:06	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/d414817fdf60010060adcf3cc4797422bb1bad99 not scanned (follow robots meta tag)
+02:42:23	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/ea8d4c784d2eeb70ac6884c30b68b17070118d21 not scanned (follow robots meta tag)
+02:42:23	Warning: 	Link https://github.com/uNetworking/uWebSockets/tree/7999d09286ae8748300b085a2c9be10efb169b2b not scanned (follow robots meta tag)
+02:42:24	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/e8d318d748c15f49a81890f97e65c4d26aa05c0c not scanned (follow robots meta tag)
+02:42:28	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/a0c6f60d66eadf2bc74766c96a0c699a2436497c not scanned (follow robots meta tag)
+02:42:33	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/180d505e4cfbf54cd799a2de8f342b97e0256d2c not scanned (follow robots meta tag)
+02:42:34	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/dac3093e67985b5f26a8632477cca98743ac8b17 not scanned (follow robots meta tag)
+02:42:39	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/2c2644505d25f2d8f5dec038d4044f7567de00b3 not scanned (follow robots meta tag)
+02:42:45	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/0e57a83a6b51ca2ca047a1db95bd61f471c4fc5e not scanned (follow robots meta tag)
+02:42:49	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/476bfa38b8d13303b945af41a30a6a6e65b228af not scanned (follow robots meta tag)
+02:43:48	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/uNetworking/uWebSockets/hovercards/citation/sidebar_partial?tree_name=master
+02:43:50	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/uNetworking/uWebSockets/used_by_list
+02:44:25	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/releases/tag/v20.30.0 not scanned (follow robots meta tag)
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/get-started/basic-crud-application (from https://socket.io/get-started/basic-crud-application/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/get-started/basic-crud-application: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/fr/get-started/basic-crud-application (from https://socket.io/get-started/basic-crud-application/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/fr/get-started/basic-crud-application: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/pt-br/get-started/basic-crud-application (from https://socket.io/get-started/basic-crud-application/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/pt-br/get-started/basic-crud-application: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/zh-CN/get-started/basic-crud-application (from https://socket.io/get-started/basic-crud-application/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/zh-CN/get-started/basic-crud-application: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/get-started/private-messaging-part-1 (from https://socket.io/get-started/private-messaging-part-1/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/get-started/private-messaging-part-1: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/fr/get-started/private-messaging-part-1 (from https://socket.io/get-started/private-messaging-part-1/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/fr/get-started/private-messaging-part-1: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/pt-br/get-started/private-messaging-part-1 (from https://socket.io/get-started/private-messaging-part-1/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/pt-br/get-started/private-messaging-part-1: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/zh-CN/get-started/private-messaging-part-1 (from https://socket.io/get-started/private-messaging-part-1/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/zh-CN/get-started/private-messaging-part-1: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/get-started/private-messaging-part-2 (from https://socket.io/get-started/private-messaging-part-2/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/get-started/private-messaging-part-2: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/fr/get-started/private-messaging-part-2 (from https://socket.io/get-started/private-messaging-part-2/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/fr/get-started/private-messaging-part-2: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/pt-br/get-started/private-messaging-part-2 (from https://socket.io/get-started/private-messaging-part-2/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/pt-br/get-started/private-messaging-part-2: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/zh-CN/get-started/private-messaging-part-2 (from https://socket.io/get-started/private-messaging-part-2/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/zh-CN/get-started/private-messaging-part-2: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/get-started/private-messaging-part-3 (from https://socket.io/get-started/private-messaging-part-3/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/get-started/private-messaging-part-3: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/fr/get-started/private-messaging-part-3 (from https://socket.io/get-started/private-messaging-part-3/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/fr/get-started/private-messaging-part-3: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/pt-br/get-started/private-messaging-part-3 (from https://socket.io/get-started/private-messaging-part-3/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/pt-br/get-started/private-messaging-part-3: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/zh-CN/get-started/private-messaging-part-3 (from https://socket.io/get-started/private-messaging-part-3/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/zh-CN/get-started/private-messaging-part-3: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/get-started/private-messaging-part-4 (from https://socket.io/get-started/private-messaging-part-4/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/get-started/private-messaging-part-4: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/fr/get-started/private-messaging-part-4 (from https://socket.io/get-started/private-messaging-part-4/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/fr/get-started/private-messaging-part-4: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/pt-br/get-started/private-messaging-part-4 (from https://socket.io/get-started/private-messaging-part-4/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/pt-br/get-started/private-messaging-part-4: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/zh-CN/get-started/private-messaging-part-4 (from https://socket.io/get-started/private-messaging-part-4/)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/zh-CN/get-started/private-messaging-part-4: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/docs/v4/handling-cors (from https://socket.io/how-to/use-with-react)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/docs/v4/handling-cors: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/docs/v4/engine-io-protocol (from https://socket.io/how-to/build-a-basic-client)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/docs/v4/engine-io-protocol: Permission denied
+02:45:18	Error: 	"Error when decompressing" (-1) at link https://socket.io/docs/v4/socket-io-protocol (from https://socket.io/how-to/build-a-basic-client)
+02:45:18	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/docs/v4/socket-io-protocol: Permission denied
+02:45:20	Error: 	"Error when decompressing" (-1) at link https://socket.io/docs/v2/namespaces (from https://socket.io/docs/v2/client-api/)
+02:45:20	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/docs/v2/namespaces: Permission denied
+02:45:37	Error: 	"Error when decompressing" (-1) at link https://socket.io/fr/docs/v4/handling-cors (from https://socket.io/fr/how-to/use-with-react)
+02:45:37	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/fr/docs/v4/handling-cors: Permission denied
+02:45:37	Error: 	"Error when decompressing" (-1) at link https://socket.io/fr/docs/v4/engine-io-protocol (from https://socket.io/fr/how-to/build-a-basic-client)
+02:45:37	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/fr/docs/v4/engine-io-protocol: Permission denied
+02:45:37	Error: 	"Error when decompressing" (-1) at link https://socket.io/fr/docs/v4/socket-io-protocol (from https://socket.io/fr/how-to/build-a-basic-client)
+02:45:37	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/fr/docs/v4/socket-io-protocol: Permission denied
+02:45:38	Error: 	"Error when decompressing" (-1) at link https://socket.io/fr/docs/v2/namespaces (from https://socket.io/fr/docs/v2/client-api/)
+02:45:38	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/fr/docs/v2/namespaces: Permission denied
+02:45:48	Error: 	"Error when decompressing" (-1) at link https://socket.io/pt-br/docs/v4/handling-cors (from https://socket.io/pt-br/how-to/use-with-react)
+02:45:48	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/pt-br/docs/v4/handling-cors: Permission denied
+02:45:48	Error: 	"Error when decompressing" (-1) at link https://socket.io/pt-br/docs/v4/engine-io-protocol (from https://socket.io/pt-br/how-to/build-a-basic-client)
+02:45:48	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/pt-br/docs/v4/engine-io-protocol: Permission denied
+02:45:48	Error: 	"Error when decompressing" (-1) at link https://socket.io/pt-br/docs/v4/socket-io-protocol (from https://socket.io/pt-br/how-to/build-a-basic-client)
+02:45:48	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/pt-br/docs/v4/socket-io-protocol: Permission denied
+02:45:49	Error: 	"Error when decompressing" (-1) at link https://socket.io/pt-br/docs/v2/namespaces (from https://socket.io/pt-br/docs/v2/client-api/)
+02:45:49	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/pt-br/docs/v2/namespaces: Permission denied
+02:45:59	Error: 	"Error when decompressing" (-1) at link https://socket.io/zh-CN/docs/v4/handling-cors (from https://socket.io/zh-CN/how-to/use-with-react)
+02:45:59	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/zh-CN/docs/v4/handling-cors: Permission denied
+02:45:59	Error: 	"Error when decompressing" (-1) at link https://socket.io/zh-CN/docs/v4/engine-io-protocol (from https://socket.io/zh-CN/how-to/build-a-basic-client)
+02:45:59	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/zh-CN/docs/v4/engine-io-protocol: Permission denied
+02:45:59	Error: 	"Error when decompressing" (-1) at link https://socket.io/zh-CN/docs/v4/socket-io-protocol (from https://socket.io/zh-CN/how-to/build-a-basic-client)
+02:45:59	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/zh-CN/docs/v4/socket-io-protocol: Permission denied
+02:45:59	Error: 	"Error when decompressing" (-1) at link https://socket.io/zh-CN/docs/v2/namespaces (from https://socket.io/zh-CN/docs/v2/client-api/)
+02:45:59	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/zh-CN/docs/v2/namespaces: Permission denied
+02:46:01	Error: 	"Error when decompressing" (-1) at link https://socket.io/docs/v4/namespaces (from https://socket.io/docs/v4/socket-io-protocol/)
+02:46:01	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/docs/v4/namespaces: Permission denied
+02:46:02	Error: 	"Error when decompressing" (-1) at link https://socket.io/socket-io-with-apache-cordova (from https://socket.io/socket-io-with-apache-cordova/)
+02:46:02	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/socket-io-with-apache-cordova: Permission denied
+02:46:02	Error: 	"Error when decompressing" (-1) at link https://socket.io/fr/socket-io-with-apache-cordova (from https://socket.io/socket-io-with-apache-cordova/)
+02:46:02	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/fr/socket-io-with-apache-cordova: Permission denied
+02:46:02	Error: 	"Error when decompressing" (-1) at link https://socket.io/pt-br/socket-io-with-apache-cordova (from https://socket.io/socket-io-with-apache-cordova/)
+02:46:02	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/pt-br/socket-io-with-apache-cordova: Permission denied
+02:46:02	Error: 	"Error when decompressing" (-1) at link https://socket.io/zh-CN/socket-io-with-apache-cordova (from https://socket.io/socket-io-with-apache-cordova/)
+02:46:02	Error: 	Unable to save file C:/Users/ALOK SINGH PARMAR/Downloads/socketio/socket.io/zh-CN/socket-io-with-apache-cordova: Permission denied
+02:46:30	Error: 	"Not Found" (404) at link https://github.com/email_validity_checks (from https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=uNetworking%2FuWebSockets.js)
+02:46:30	Error: 	"Not Found" (404) at link https://github.com/password_validity_checks (from https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=uNetworking%2FuWebSockets.js)
+02:46:30	Error: 	"Not Found" (404) at link https://github.com/signup_check/username (from https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=uNetworking%2FuWebSockets.js)
+02:46:30	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/blob/935839357bbf824609bb85f7c0fcd0e16cf27abd/LICENSE not scanned (follow robots meta tag)
+02:46:30	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/blob/{{ urlEncodedRefName }}/LICENSE (from https://github.com/uNetworking/uWebSockets.js/blob/master/LICENSE)
+02:46:34	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/blob/master/{{ revealButtonHref }} (from https://github.com/uNetworking/uWebSockets.js/blob/master/LICENSE)
+02:46:34	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/blame/935839357bbf824609bb85f7c0fcd0e16cf27abd/LICENSE not scanned (follow robots meta tag)
+02:54:43	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/asialiugf/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+02:55:12	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bbusse/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+02:55:42	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bdaenen/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+02:56:09	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/GGAlanSmithee/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+02:56:37	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/Peer5/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+02:57:00	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/TimiBolu/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+02:57:28	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/adonespitogo/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+02:57:50	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/adrianschubek/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+02:58:18	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/aetheryx/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+02:58:45	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/amirrezamahyari/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+02:59:13	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/amitic/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+02:59:35	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/askuzminov/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+02:59:38	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/b0o/uWebSockets.js/sponsor_button
+02:59:59	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/b0o/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+03:00:27	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/CountBleck/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+03:00:50	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/DarkMatterMatt/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+03:01:19	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/Dealerpriest/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+03:01:45	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/Dmitry-N-Medvedev/freebsd-uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+03:02:11	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/dragonbane0/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+03:02:39	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/e3dio/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+03:03:04	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/endel/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+03:03:31	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/fairhopeweb/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+03:03:59	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/ftntming/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+03:04:22	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/gillsoftab/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+03:04:49	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/idofilus/uWebSockets.js/hovercards/citation/sidebar_partial?tree_name=master
+03:10:08	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement (from https://github.com/uNetworking/uWebSockets.js/issues)
+03:10:08	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/issues?q=is%3Aissue+is%3Aopen+label%3Aquestion (from https://github.com/uNetworking/uWebSockets.js/issues)
+03:10:28	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22experimental+feedback%22 (from https://github.com/uNetworking/uWebSockets.js/issues)
+03:10:52	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22low+priority%22 (from https://github.com/uNetworking/uWebSockets.js/issues)
+03:18:06	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/pull/867 not scanned (follow robots meta tag)
+03:21:38	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/discussions/labels/search_menu?discussions_q=is%3Aopen (from https://github.com/uNetworking/uWebSockets.js/discussions)
+03:29:15	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/actions/caches (from https://github.com/uNetworking/uWebSockets.js/actions)
+03:29:15	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/deployments (from https://github.com/uNetworking/uWebSockets.js/actions)
+03:29:15	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/actions/navigation_partial?query=&selected_section=all_workflows (from https://github.com/uNetworking/uWebSockets.js/actions)
+03:29:45	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/cb64e34a5144171cdf1e35693ac409f0046699a1 not scanned (follow robots meta tag)
+03:29:56	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/f4c1860153b1b17bedebb3f9f75315b71cbc67ac not scanned (follow robots meta tag)
+03:30:08	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/9ad457ba5425bb38f6b081457787ceec022e8974 not scanned (follow robots meta tag)
+03:30:19	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/ef2dc82416a716a63610072b1d6b42a5ffa7058b not scanned (follow robots meta tag)
+03:31:00	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/63288506a17ab2608545721bb57664e784f16398 not scanned (follow robots meta tag)
+03:31:12	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/48c0c1318ec9983c69ddd7ad5f454047a301c299 not scanned (follow robots meta tag)
+03:31:23	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/45c7b4098a9ad603faea6f469b0335a128861816 not scanned (follow robots meta tag)
+03:31:34	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/d1dc35ef2d9a98169d4596a0ae5f5541ac163f26 not scanned (follow robots meta tag)
+03:31:46	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/c74a2a7dcd851d27694ace45f4f5fe809bffd1bf not scanned (follow robots meta tag)
+03:35:27	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/d39d4181daf5b670d44cbc1b18f8c28c85fd4142 not scanned (follow robots meta tag)
+03:35:27	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/releases/tag/v20.29.0 not scanned (follow robots meta tag)
+03:35:30	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/f59872f8c592db706f750f67d617e731e4e85f80 not scanned (follow robots meta tag)
+03:35:30	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/releases/tag/v20.28.0 not scanned (follow robots meta tag)
+03:35:32	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/ca0f539012a61d1436b8e3815dc173727d7fbfa6 not scanned (follow robots meta tag)
+03:35:32	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/releases/tag/v20.27.0 not scanned (follow robots meta tag)
+03:35:35	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/666954999fb67b303c6bc11b577599d51aa39e7c not scanned (follow robots meta tag)
+03:35:35	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/releases/tag/v20.26.0 not scanned (follow robots meta tag)
+03:35:36	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/df8f620390d6379565d34d0a0e57d053f2dfd230 not scanned (follow robots meta tag)
+03:35:36	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/releases/tag/v20.25.0 not scanned (follow robots meta tag)
+03:35:40	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/e6ecc2102d68d99dc35969b0898fbd201e0f252b not scanned (follow robots meta tag)
+03:35:40	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/releases/tag/v20.24.0 not scanned (follow robots meta tag)
+03:35:42	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/6545da07696855e77de1480d5b55bb661746ddd3 not scanned (follow robots meta tag)
+03:35:42	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/releases/tag/v20.23.0 not scanned (follow robots meta tag)
+03:35:45	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/49f8f1eb54435e4c3e3e436571e93d1f06aaabbb not scanned (follow robots meta tag)
+03:35:45	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/releases/tag/v20.22.0 not scanned (follow robots meta tag)
+03:35:46	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/eb1c4ffc990c07395a6de91d4a7da07bf6ce390c not scanned (follow robots meta tag)
+03:35:46	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/releases/tag/v20.21.0 not scanned (follow robots meta tag)
+03:35:48	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/fdb7117569418de32538ebf97f082b211613d548 not scanned (follow robots meta tag)
+03:36:14	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/commits/{{ urlEncodedRefName }} (from https://github.com/uNetworking/uWebSockets.js/commits?author=uNetworkingAB)
+03:36:14	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/cb64e34a5144171cdf1e35693ac409f0046699a1 not scanned (follow robots meta tag)
+03:36:16	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/66fd03a2f457409640b1531f5e9125d736e09eeb not scanned (follow robots meta tag)
+03:36:16	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/f4c1860153b1b17bedebb3f9f75315b71cbc67ac not scanned (follow robots meta tag)
+03:36:16	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/9ad457ba5425bb38f6b081457787ceec022e8974 not scanned (follow robots meta tag)
+03:36:16	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/ef2dc82416a716a63610072b1d6b42a5ffa7058b not scanned (follow robots meta tag)
+03:36:16	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/e8d318d748c15f49a81890f97e65c4d26aa05c0c not scanned (follow robots meta tag)
+03:36:16	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/0e57a83a6b51ca2ca047a1db95bd61f471c4fc5e not scanned (follow robots meta tag)
+03:36:16	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/48c0c1318ec9983c69ddd7ad5f454047a301c299 not scanned (follow robots meta tag)
+03:36:16	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/45c7b4098a9ad603faea6f469b0335a128861816 not scanned (follow robots meta tag)
+03:36:16	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/d1dc35ef2d9a98169d4596a0ae5f5541ac163f26 not scanned (follow robots meta tag)
+03:36:17	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/c74a2a7dcd851d27694ace45f4f5fe809bffd1bf not scanned (follow robots meta tag)
+03:36:17	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/05c0ae3321f4d5f166c44b98012d88d689290cc3 not scanned (follow robots meta tag)
+03:36:18	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/7f6d0ae2f4a5dc54d6ef0667bbb90edf7c3d6ab9 not scanned (follow robots meta tag)
+03:36:18	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/7f6d0ae2f4a5dc54d6ef0667bbb90edf7c3d6ab9 not scanned (follow robots meta tag)
+03:36:18	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/66fd03a2f457409640b1531f5e9125d736e09eeb not scanned (follow robots meta tag)
+03:36:19	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/d8351a6ebd8fa7a2e05d541821bc75839d66ab35 not scanned (follow robots meta tag)
+03:36:19	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/d8351a6ebd8fa7a2e05d541821bc75839d66ab35 not scanned (follow robots meta tag)
+03:36:20	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/00ccaa9edd2448fd54ef0a46f143c133dcf89079 not scanned (follow robots meta tag)
+03:36:20	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/00ccaa9edd2448fd54ef0a46f143c133dcf89079 not scanned (follow robots meta tag)
+03:36:21	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/ec0a94eeb270a0f696a114012961bfec7600e998 not scanned (follow robots meta tag)
+03:36:22	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/ec0a94eeb270a0f696a114012961bfec7600e998 not scanned (follow robots meta tag)
+03:36:23	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/5789924f125e7136fcadac68c3a29b4facad85b5 not scanned (follow robots meta tag)
+03:36:23	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/5789924f125e7136fcadac68c3a29b4facad85b5 not scanned (follow robots meta tag)
+03:36:24	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/9637e048095171ad1f817e491c1c36f25e4981e3 not scanned (follow robots meta tag)
+03:36:24	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/9637e048095171ad1f817e491c1c36f25e4981e3 not scanned (follow robots meta tag)
+03:36:25	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/25f95331f29a9a15278bff497113ca834738b939 not scanned (follow robots meta tag)
+03:36:25	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/25f95331f29a9a15278bff497113ca834738b939 not scanned (follow robots meta tag)
+03:36:26	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/d6191abb442509fb4a41c6bb4ae6e999d3b4c0fb not scanned (follow robots meta tag)
+03:36:26	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/d6191abb442509fb4a41c6bb4ae6e999d3b4c0fb not scanned (follow robots meta tag)
+03:36:26	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/476bfa38b8d13303b945af41a30a6a6e65b228af not scanned (follow robots meta tag)
+03:36:27	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/688c75ef1d520fb83dd186a2e44609515daa3ce3 not scanned (follow robots meta tag)
+03:36:27	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/688c75ef1d520fb83dd186a2e44609515daa3ce3 not scanned (follow robots meta tag)
+03:36:28	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/ae8c31bb70f69ecd2d4895e7a35dee56d1336251 not scanned (follow robots meta tag)
+03:36:28	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/ae8c31bb70f69ecd2d4895e7a35dee56d1336251 not scanned (follow robots meta tag)
+03:36:29	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/4774d9242479dbdf0d25c93c4c2d6d5e71a04dc7 not scanned (follow robots meta tag)
+03:36:30	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/4774d9242479dbdf0d25c93c4c2d6d5e71a04dc7 not scanned (follow robots meta tag)
+03:36:31	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/124c70dd7deed0d0aa96fa42450ba0901eadeb2d not scanned (follow robots meta tag)
+03:36:31	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/124c70dd7deed0d0aa96fa42450ba0901eadeb2d not scanned (follow robots meta tag)
+03:36:32	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/f7a4154ce0873af6379ef458e77f4def678c5153 not scanned (follow robots meta tag)
+03:36:32	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/f7a4154ce0873af6379ef458e77f4def678c5153 not scanned (follow robots meta tag)
+03:36:33	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/0b234dffa750b54a6c515b4d0a4cbefd0807e0d0 not scanned (follow robots meta tag)
+03:36:33	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/0b234dffa750b54a6c515b4d0a4cbefd0807e0d0 not scanned (follow robots meta tag)
+03:36:33	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/7a226c0027e1d24577252245ac7c5854463b08a7 not scanned (follow robots meta tag)
+03:36:34	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/9327b48331fecd73b7b44cca8a8c1e054637f858 not scanned (follow robots meta tag)
+03:36:34	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/9327b48331fecd73b7b44cca8a8c1e054637f858 not scanned (follow robots meta tag)
+03:36:35	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/7764a655994b2b7617f2f7dc93ba8b2d21f2f5b7 not scanned (follow robots meta tag)
+03:36:36	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/7764a655994b2b7617f2f7dc93ba8b2d21f2f5b7 not scanned (follow robots meta tag)
+03:36:37	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/816e8d0e797afbce32ab7f0ca6a4d5c8baba981b not scanned (follow robots meta tag)
+03:36:37	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/816e8d0e797afbce32ab7f0ca6a4d5c8baba981b not scanned (follow robots meta tag)
+03:36:38	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/271083acf5e5270837e85c2cfecf5f5970791f7f not scanned (follow robots meta tag)
+03:36:38	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/271083acf5e5270837e85c2cfecf5f5970791f7f not scanned (follow robots meta tag)
+03:36:39	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/2615604236574f13c0b3aa6336641f061ff29239 not scanned (follow robots meta tag)
+03:36:40	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/2615604236574f13c0b3aa6336641f061ff29239 not scanned (follow robots meta tag)
+03:36:41	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/3b1d7fcf7e3ffea3732221b3828a22b1d1e9959c not scanned (follow robots meta tag)
+03:36:41	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/3b1d7fcf7e3ffea3732221b3828a22b1d1e9959c not scanned (follow robots meta tag)
+03:37:19	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/8813908957b78ee21df87b7e20566ae3e79b2672 not scanned (follow robots meta tag)
+03:37:19	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/pull/912 not scanned (follow robots meta tag)
+03:37:19	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/63288506a17ab2608545721bb57664e784f16398 not scanned (follow robots meta tag)
+03:37:20	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/74e4895cbce38127e03633308e6f4fad9ee22d38 not scanned (follow robots meta tag)
+03:37:22	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/pull/888 not scanned (follow robots meta tag)
+03:37:25	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/74e4895cbce38127e03633308e6f4fad9ee22d38 not scanned (follow robots meta tag)
+03:37:26	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/c2c50fc9e439b762be02900e3cc6d8acb0220324 not scanned (follow robots meta tag)
+03:37:26	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/pull/890 not scanned (follow robots meta tag)
+03:37:26	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/c2c50fc9e439b762be02900e3cc6d8acb0220324 not scanned (follow robots meta tag)
+03:37:27	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/d319c00f61f5e03a3a56f510a1467aed1f3a50a5 not scanned (follow robots meta tag)
+03:37:28	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/d319c00f61f5e03a3a56f510a1467aed1f3a50a5 not scanned (follow robots meta tag)
+03:37:29	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/875f16e1fa8483f1cbe6e50fdb25efe4fc383731 not scanned (follow robots meta tag)
+03:37:29	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/pull/864 not scanned (follow robots meta tag)
+03:37:31	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/875f16e1fa8483f1cbe6e50fdb25efe4fc383731 not scanned (follow robots meta tag)
+03:37:44	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/tree/{{ urlEncodedRefName }}/.github/workflows (from https://github.com/uNetworking/uWebSockets.js/tree/master/.github/workflows)
+03:45:50	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/935839357bbf824609bb85f7c0fcd0e16cf27abd/.github/workflows not scanned (follow robots meta tag)
+03:45:55	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/tree/{{ urlEncodedRefName }}/docs (from https://github.com/uNetworking/uWebSockets.js/tree/master/docs)
+03:47:36	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/935839357bbf824609bb85f7c0fcd0e16cf27abd/docs not scanned (follow robots meta tag)
+03:48:03	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/tree/{{ urlEncodedRefName }}/examples (from https://github.com/uNetworking/uWebSockets.js/tree/master/examples)
+03:49:33	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/935839357bbf824609bb85f7c0fcd0e16cf27abd/examples not scanned (follow robots meta tag)
+03:51:58	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/tree/{{ urlEncodedRefName }}/misc (from https://github.com/uNetworking/uWebSockets.js/tree/master/misc)
+03:52:18	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/935839357bbf824609bb85f7c0fcd0e16cf27abd/misc not scanned (follow robots meta tag)
+03:52:31	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/50641ab8a4fbae412250c4fa09e5c05dc47cf80b not scanned (follow robots meta tag)
+03:52:37	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/b3548da8a2d2e9366611f7dd277e16c0bce1d90a not scanned (follow robots meta tag)
+03:52:43	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/4d7f03f26da3a44f3dadf41904a142a12b55b8a3 not scanned (follow robots meta tag)
+03:52:50	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/dbcd9a42f71c42cfbeec3c37b11003cdd71a1b1c not scanned (follow robots meta tag)
+03:53:09	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/tree/{{ urlEncodedRefName }}/src (from https://github.com/uNetworking/uWebSockets.js/tree/master/src)
+03:53:26	Error: 	Exit requested by shell or user
+03:53:27	Warning: 	File not added due to mirror cancel: https://github.com/uNetworking/uWebSockets.js/tree/22559d8be90f20affb9cae7af8dda5bbc6342602/src
+03:53:27	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/935839357bbf824609bb85f7c0fcd0e16cf27abd/src not scanned (follow robots meta tag)
+03:53:27	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/7ae1b6f05f80e1db9553ac94a67daebf8459e8f1 not scanned (follow robots meta tag)
+03:53:28	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/commit/5ca75e35d0efd79ab3856f981643823915ec8307 not scanned (follow robots meta tag)
+03:53:28	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/tree/{{ urlEncodedRefName }}/tests (from https://github.com/uNetworking/uWebSockets.js/tree/master/tests)
+03:53:28	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/tree/935839357bbf824609bb85f7c0fcd0e16cf27abd/tests not scanned (follow robots meta tag)
+03:53:28	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/blob/935839357bbf824609bb85f7c0fcd0e16cf27abd/.gitattributes not scanned (follow robots meta tag)
+03:53:28	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/blob/{{ urlEncodedRefName }}/.gitattributes (from https://github.com/uNetworking/uWebSockets.js/blob/master/.gitattributes)
+03:53:29	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/blame/935839357bbf824609bb85f7c0fcd0e16cf27abd/.gitattributes not scanned (follow robots meta tag)
+03:53:29	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/blob/935839357bbf824609bb85f7c0fcd0e16cf27abd/.gitmodules not scanned (follow robots meta tag)
+03:53:29	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/blob/{{ urlEncodedRefName }}/.gitmodules (from https://github.com/uNetworking/uWebSockets.js/blob/master/.gitmodules)
+03:53:29	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/blame/935839357bbf824609bb85f7c0fcd0e16cf27abd/.gitmodules not scanned (follow robots meta tag)
+03:53:29	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/blob/935839357bbf824609bb85f7c0fcd0e16cf27abd/Makefile not scanned (follow robots meta tag)
+03:53:29	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/blob/{{ urlEncodedRefName }}/Makefile (from https://github.com/uNetworking/uWebSockets.js/blob/master/Makefile)
+03:53:29	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/blame/935839357bbf824609bb85f7c0fcd0e16cf27abd/Makefile not scanned (follow robots meta tag)
+03:53:29	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/blob/935839357bbf824609bb85f7c0fcd0e16cf27abd/README.md not scanned (follow robots meta tag)
+03:53:29	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/blob/{{ urlEncodedRefName }}/README.md (from https://github.com/uNetworking/uWebSockets.js/blob/master/README.md)
+03:53:29	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/blob/master/uWebSockets.js (from https://github.com/uNetworking/uWebSockets.js/blob/master/README.md)
+03:53:29	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/blob/935839357bbf824609bb85f7c0fcd0e16cf27abd/build.c not scanned (follow robots meta tag)
+03:53:29	Error: 	"Not Found" (404) at link https://github.com/uNetworking/uWebSockets.js/blob/{{ urlEncodedRefName }}/build.c (from https://github.com/uNetworking/uWebSockets.js/blob/master/build.c)
+03:53:29	Warning: 	Link https://github.com/uNetworking/uWebSockets.js/blame/935839357bbf824609bb85f7c0fcd0e16cf27abd/build.c not scanned (follow robots meta tag)
+03:53:30	Error: 	Exit requested by shell or user
+03:53:30	Error: 	"" (-1) at link https://github.com/uNetworking/uWebSockets/security (from https://github.com/uNetworking/uWebSockets/tree/master/fuzzing)
+03:53:30	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 24 minutes 48 seconds : 6802 links scanned, 6112 files written (832888831 bytes overall) [246186718 bytes received at 48385 bytes/sec], 925465729 bytes transferred using HTTP compression in 6206 files, ratio 21%, 1.1 requests per connection
+(128 errors, 168 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
